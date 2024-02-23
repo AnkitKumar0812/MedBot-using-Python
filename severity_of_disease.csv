@@ -1,0 +1,90 @@
+disease,severity
+itching,1
+skin_rash,3
+lethargy,2
+ shivering,5
+ chills,3
+covid-19,7
+ stomach_pain,5
+ acidity,3
+cough,4
+ muscle_wasting ,3
+ vomiting,5
+ fatigue,4
+ weight_gain,3
+ anxiety,5
+ cold_hands_and_feets,3
+ mood_swings,3
+ weight_loss,3
+ restlessness,5
+continuos_sneezing,4
+" irregular_sugar_level,   ",5
+pain,4
+ high_fever  ,7
+ sweating  ,3
+ dehydration  ,4
+" indigestion,    ",5
+ headache  ,3
+ yellowish_skin  ,3
+ dark_urine  ,4
+ nausea  ,5
+ loss_of_appetite  ,4
+ pain_behind_the_eyes  ,4
+ back_pain  ,3
+ constipation  ,4
+ abdominal_pain  ,4
+ diarrhoea  ,6
+ mild_fever  ,5
+ yellow_urine  ,4
+ swelling_of_muscle  ,5
+ malaise  ,6
+ throat_irritation  ,4
+ redness_of_eyes  ,5
+ sinus_pressure  ,4
+ runny_nose  ,5
+ congestion  ,5
+ chest_pain  ,7
+ weakness_in_limbs  ,7
+ fast_heart_rate  ,5
+ neck_pain  ,5
+ dizziness  ,4
+ cramps  ,4
+ obesity  ,4
+ swollen_legs  ,5
+ puffy_face_and_eyes  ,5
+ enlarged_thyroid  ,6
+ excessive_hunger  ,4
+ knee_pain  ,3
+ hip_joint_pain  ,2
+ muscle_weakness  ,2
+ stiff_neck  ,4
+ swelling_joints  ,5
+ loss_of_balance  ,4
+ unsteadiness  ,4
+ weakness_of_one_body_side  ,4
+ loss_of_smell  ,3
+ foul_smell_ofurine  ,5
+ continuous_feel_of_urine  ,6
+ internal_itching  ,4
+ depression  ,3
+ irritability  ,2
+ muscle_pain  ,2
+ red_spots_over_body  ,3
+ belly_pain  ,4
+ watering_from_eyes  ,4
+ increased_appetite  ,5
+ lack_of_concentration  ,3
+ coma  ,7
+ palpitations  ,4
+ migrane  ,7
+ loose motion  ,4
+ cuts  ,4
+ toothache  ,4
+ typhoid  ,6
+ jaundice  ,6
+ malaria  ,7
+ measles  ,4
+ chickenpox  ,7
+ blood pressure  ,2
+ asthama  ,2
+joint_pain,3
